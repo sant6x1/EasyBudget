@@ -14,10 +14,10 @@
 
 ## Checklist das funcionalidades (2ª entrega)
 
-- [ ] Cadastro de usuários
-- [ ] Login com autenticação
-- [ ] Tela de criação de eventos
-- [ ] Listagem de eventos
+- [X] Cadastro de usuários
+- [X] Login com autenticação
+- [X] Tela de criação de eventos
+- [X] Listagem de eventos
 - [ ] Cálculo automático de orçamento
 - [ ] Geração de relatório do evento
 - [ ] Responsividade para dispositivos móveis
